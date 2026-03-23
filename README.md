@@ -2,7 +2,7 @@
 
 > **Atelier Sécurité Linux Serveur**  
 > Durcir un serveur Ubuntu dédié à l'administration d'une infrastructure IoT ESP32
-> Karadag Nissa
+> **Karadag Nissa**
 
 ---
 
@@ -155,17 +155,17 @@ groups
 
 | Mesure                          | Statut |
 |---------------------------------|--------|
-| Système mis à jour              |        |
-| MAJ automatiques activées       |        |
-| Compte root SSH désactivé       |        |
-| Utilisateur admin sudo créé     |        |
-| SSH durci (MaxAuthTries, etc.)  |        |
-| Pare-feu UFW actif              |        |
-| SSH restreint au VPN            |        |
-| Journaux SSH vérifiés           |        |
-| auditd installé et actif        |        |
-| Règle audit /etc/passwd         |        |
-| Test traçabilité validé         |        |
+| Système mis à jour              |   OK   |
+| MAJ automatiques activées       |   OK   |
+| Compte root SSH désactivé       |   OK   |
+| Utilisateur admin sudo créé     |   OK   |
+| SSH durci (MaxAuthTries, etc.)  |   OK   |
+| Pare-feu UFW actif              |   OK   |
+| SSH restreint au VPN            |   OK   |
+| Journaux SSH vérifiés           |   OK   |
+| auditd installé et actif        |   OK   |
+| Règle audit /etc/passwd         |   OK   |
+| Test traçabilité validé         |   OK   |
 
 ---
 
