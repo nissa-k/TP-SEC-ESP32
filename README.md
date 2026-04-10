@@ -184,7 +184,7 @@ groups
 | Champ        | Valeur                          |
 |--------------|---------------------------------|
 | Cours        | Sécurité Linux Serveur          |
-| École        | Numeryx University              |
+| École        | University              |
 | VM           | Ubuntu (esp32-VirtualBox)       |
 | Utilisateur  | esp32 / admin                   |
 | Date         | Décembre 2025                   |
